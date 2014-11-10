@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/hayeah/rantly.git
+  revision: db76214c2039bafdf0ffe706513db87a7d076e24
+  specs:
+    rantly (0.3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.4.2)
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rake
+  rantly!
