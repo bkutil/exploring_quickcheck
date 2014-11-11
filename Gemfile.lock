@@ -9,6 +9,7 @@ GEM
   specs:
     atomic (1.1.16)
     colorize (0.7.3)
+    finite_machine (0.9.2)
     hirb (0.7.2)
     minitest (5.4.2)
     multi_json (1.10.1)
@@ -27,6 +28,7 @@ PLATFORMS
 
 DEPENDENCIES
   atomic
+  finite_machine
   minitest
   rake
   rantly!
