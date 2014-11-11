@@ -7,21 +7,28 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    avl_tree (1.2.0)
+    atomic (1.1.16)
+    colorize (0.7.3)
+    hirb (0.7.2)
     minitest (5.4.2)
     multi_json (1.10.1)
     rake (10.3.2)
     simplecov (0.6.4)
       multi_json (~> 1.0)
       simplecov-html (~> 0.5.3)
+    simplecov-console (0.2.0)
+      colorize
+      hirb
+      simplecov
     simplecov-html (0.5.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  avl_tree
+  atomic
   minitest
   rake
   rantly!
   simplecov
+  simplecov-console
