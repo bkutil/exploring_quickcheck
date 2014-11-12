@@ -13,7 +13,8 @@ theory and red black trees](http://matt.might.net/articles/quick-quickcheck/)).
 
   * [Introduction to QuickCheck](http://www.youtube.com/watch?v=zi0rHwfiX1Q), talk by John Hughes, co-author of QuickCheck.
   * Another talk on [QuickCheck CI](http://www.youtube.com/watch?v=gPFSZ8oKjco)
-  * [QuickCheck Sources](http://www.cse.chalmers.se/~rjmh/QuickCheck/QuickCheck.hs)
+  * [QuickCheck Package page](http://hackage.haskell.org/package/QuickCheck)
+  * [Original QuickCheck Sources](http://www.cse.chalmers.se/~rjmh/QuickCheck/QuickCheck.hs)
   * [QuickCheck used to catch bugs in LevelDB](https://raw.github.com/strangeloop/lambdajam2013/master/slides/Norton-QuickCheck.html)
   * Corresponding [Erlang properties/state machine](https://github.com/norton/lets/blob/master/test/qc/qc_leveldb.erl)
   * [QuickCheck download from Quviq](http://www.quviq.com/downloads/)
