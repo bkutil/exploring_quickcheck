@@ -56,6 +56,6 @@ For other languages [Nat Pryce](https://github.com/npryce) has compiled a list o
 
 # Tools
 
-Gem for random-data-generators [generatron](https://github.com/jessitron/generatron)
-- [Generator module](https://github.com/jessitron/generatron/blob/master/lib/generatron/generators.rb)
-is interesting. Builds on Rantly.
+  * There is a gem for random-data-generators called [generatron](https://github.com/jessitron/generatron). Especially
+    the [Generator module](https://github.com/jessitron/generatron/blob/master/lib/generatron/generators.rb)
+    is an interesting read. Builds on Rantly.
