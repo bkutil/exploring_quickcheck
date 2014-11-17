@@ -24,24 +24,24 @@ the ops on the tree directly - otoh, state machine could provide a framework for
 ## Property based testing
 
   * [Jessica Kerr - Property based tests for better code](https://www.youtube.com/watch?v=shngiiBfD80).
-    Prop testing pros & cons,
+    (Video) Prop testing pros & cons,
     composing generators, using ports&adapters to incorporate failure as a
     response from (remote) services, defining 'business
     value/success/correctness' in terms of properties.
-  * [Property based testing, what is it](http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html)
-  * [Testing with generative testing: an example in Ruby](http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html)
-  * [Property based testing of higher order functions](http://blog.jessitron.com/2014/02/property-based-testing-of-higher-order.html)
+  * [Property based testing, what is it](http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html) (Article)
+  * [Testing with generative testing: an example in Ruby](http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html) (Article)
+  * [Property based testing of higher order functions](http://blog.jessitron.com/2014/02/property-based-testing-of-higher-order.html) (Article)
 
 ## QuickCheck
 
-  * [Introduction to QuickCheck](http://www.youtube.com/watch?v=zi0rHwfiX1Q), talk by John Hughes, co-author of QuickCheck.
-  * Another talk on [QuickCheck CI](http://www.youtube.com/watch?v=gPFSZ8oKjco) - Cherry-pick example-based failing tests from
+  * [Introduction to QuickCheck](http://www.youtube.com/watch?v=zi0rHwfiX1Q) (Video), talk by John Hughes, co-author of QuickCheck.
+  * Another talk on [QuickCheck CI](http://www.youtube.com/watch?v=gPFSZ8oKjco) (Video) - Cherry-pick example-based failing tests from
     property based test runs.
-  * [QuickCheck Package page](http://hackage.haskell.org/package/QuickCheck)
-  * [Original QuickCheck Sources](http://www.cse.chalmers.se/~rjmh/QuickCheck/QuickCheck.hs)
-  * [QuickCheck used to catch bugs in LevelDB](https://raw.github.com/strangeloop/lambdajam2013/master/slides/Norton-QuickCheck.html)
-  * Corresponding [Erlang properties/state machine](https://github.com/norton/lets/blob/master/test/qc/qc_leveldb.erl)
-  * [QuickCheck download from Quviq](http://www.quviq.com/downloads/)
+  * [QuickCheck Package page](http://hackage.haskell.org/package/QuickCheck) (Docs)
+  * [Original QuickCheck Sources](http://www.cse.chalmers.se/~rjmh/QuickCheck/QuickCheck.hs) (Sources)
+  * [QuickCheck used to catch bugs in LevelDB](https://raw.github.com/strangeloop/lambdajam2013/master/slides/Norton-QuickCheck.html) (Slides)
+  * Corresponding [Erlang properties/state machine](https://github.com/norton/lets/blob/master/test/qc/qc_leveldb.erl) (Sources)
+  * [QuickCheck download from Quviq](http://www.quviq.com/downloads/) (Download)
 
 
 # Implementations
